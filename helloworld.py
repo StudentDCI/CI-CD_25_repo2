@@ -1,0 +1,1 @@
+print("Hello Everyone, this is a demo class to learn git init")
